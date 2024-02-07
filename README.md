@@ -1,8 +1,3 @@
-### Hi there 👋, Abdulrahman Alsaadi
-
-
-I am a second-year mechatronics engineering student with a passion for robotics, automation, and embedded systems. I enjoy tackling challenging problems and turning innovative ideas into reality. My goal is to contribute to cutting-edge technologies that make a positive impact on society.
-
 <h1 align="center">Hi 👋, I'm Abdulrahman Alsaadi</h1>
 <h3 align="center">I am a second-year mechatronics engineering student with a passion for robotics, automation, and embedded systems. I enjoy tackling challenging problems and turning innovative ideas into reality. My goal is to contribute to cutting-edge technologies that make a positive impact on society.</h3>
 
