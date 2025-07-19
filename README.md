@@ -20,8 +20,5 @@ I am a second-year mechatronics engineering student with a passion for robotics,
 ---
 [![](https://visitcount.itsvg.in/api?id=ABDULRAHMAN-ALSAADI&icon=5&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HarukiGin) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
