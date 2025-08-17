@@ -19,6 +19,9 @@
   <a href="https://x.com/Eng_Kambe" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+   <a href="https://www.linkedin.com/in/abdulrahmanalsaadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
