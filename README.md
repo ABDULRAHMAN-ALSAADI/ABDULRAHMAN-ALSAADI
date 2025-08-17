@@ -45,21 +45,18 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🎨 Others
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
- <!-- Microsoft Office -->
-  <a href="#" target="_blank">
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
   </a>
   
-  <!-- AI Tools (general) -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/AI%20Tools-4A9A8B?style=for-the-badge&logo=artstation&logoColor=white"/>
   </a>
   
-  <!-- Robotics / Engineering -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Robotics%20Engineering-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
   </a>
+  
 ---
 
 ## 📊 GitHub Insights
