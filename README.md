@@ -16,12 +16,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://x.com/Eng_Kambe" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-   <a href="https://www.linkedin.com/in/abdulrahmanalsaadi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://x.com/Eng_Kambe" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="https://www.linkedin.com/in/abdulrahmanalsaadi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,11 +41,11 @@
 
 ### 🎨 Others
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
   </a> <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Tools-4A9A8B?style=for-the-badge&logo=artstation&logoColor=white">
+    <img src="https://img.shields.io/badge/AI%20Tools-4A9A8B?style=for-the-badge&logo=artstation&logoColor=white"/>
   </a>  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Robotics%20Engineering-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white">
+    <img src="https://img.shields.io/badge/Robotics%20Engineering-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
   </a>
   
 ---
