@@ -48,18 +48,12 @@
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULRAHMAN-ALSAADI&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ABDULRAHMAN-ALSAADI&theme=dark&hide_border=true) ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABDULRAHMAN-ALSAADI&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
-</p>
-
+![](https://github-profile-trophy.vercel.app/?username=ABDULRAHMAN-ALSAADI&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 ## 💡 Quote
