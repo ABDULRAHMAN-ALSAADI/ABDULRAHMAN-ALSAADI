@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULRAHMAN-ALSAADI&theme=radical&hide_border=true" alt="GitHub Streak">
-  <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULRAHMAN-ALSAADI&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
