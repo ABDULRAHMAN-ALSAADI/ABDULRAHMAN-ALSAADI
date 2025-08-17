@@ -1,18 +1,18 @@
-<!-- Modern GitHub Profile Design -->
+
 
 <h1 align="center">🤖 Mechatronics Engineering Student</h1>
 <p align="center">
   Passionate about <b>Robotics</b>, <b>Automation</b>, and <b>Embedded Systems</b><br>
-  Focused on creating intelligent systems that connect hardware with smart software.
+  Building intelligent systems where <b>hardware meets AI</b>.
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 3rd-year **Mechatronics Engineering student**  
-- 🔧 Skilled in **robotics design, embedded programming, and automation systems**  
-- 💡 Always exploring how engineering and AI can solve real-world problems  
-- 🌍 Aspiring to contribute to **advanced robotics for industry and society**
+- 🔧 Experienced in **robotics design, embedded programming, and automation systems**  
+- 💡 Exploring how AI + engineering can solve real-world challenges  
+- 🌍 Aiming to contribute to **next-gen robotics** that transform industries
 
 ---
 
@@ -33,41 +33,34 @@
 ![Electronics](https://img.shields.io/badge/Electronics-0077CC?style=for-the-badge&logo=microchip&logoColor=white)
 
 ### 💻 Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🎨 Others
-![AI](https://img.shields.io/badge/AI-4A9A8B?style=for-the-badge&logo=openai&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Performance & 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULRAHMAN-ALSAADI&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABDULRAHMAN-ALSAADI&theme=flat&no-frame=true&margin-w=10&row=1&column=6&title=Commit,Stars,Followers,Repositories,Issues,PullRequest" height="150"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## ✍️ Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABDULRAHMAN-ALSAADI&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 💡 Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
 </p>
 
 ---
