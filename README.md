@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd-year **Mechatronics Engineering student**  
+- 🎓 4th-year **Mechatronics Engineering student**  
 - 🔧 Skilled in **robotics design, embedded programming, and automation systems**  
 - 💡 Always exploring how engineering and AI can solve real-world problems  
 - 🌍 Aspiring to contribute to **advanced robotics for industry and society**
