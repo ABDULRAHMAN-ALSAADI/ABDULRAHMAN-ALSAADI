@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Mechatronics Engineering Student</h1>
+<h1 align="center">🤖 Mechatronics / Robotic Engineering </h1>
 <p align="center">
   Passionate about <b>Robotics</b>, <b>Automation</b>, and <b>Embedded Systems</b><br>
   Focused on creating intelligent systems that connect hardware with smart software.
@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th-year **Mechatronics Engineering student**  
 - 🔧 Skilled in **robotics design, embedded programming, and automation systems**  
 - 💡 Always exploring how engineering and AI can solve real-world problems  
 - 🌍 Aspiring to contribute to **advanced robotics for industry and society**
