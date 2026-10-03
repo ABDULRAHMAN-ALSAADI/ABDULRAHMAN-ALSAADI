@@ -1,59 +1,90 @@
-<h1 align="center">🤖 Mechatronics / Robotic Engineering </h1>
-<p align="center">
-  Passionate about <b>Robotics</b>, <b>Automation</b>, and <b>Embedded Systems</b><br>
-  Focused on creating intelligent systems that connect hardware with smart software.
-</p>
+<div align="center">
+
+# Abdulrahman Alsaadi
+
+### Mechatronics Engineer  
+**Robotics & Autonomous Systems · Mechanical & Product Design · R&D**
+
+I build electromechanical and robotic systems from **mechanical design and engineering analysis** through **embedded control, autonomy, simulation, integration, and physical validation**.
+
+[![Portfolio](https://img.shields.io/badge/VIEW%20PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulrahman-alsaadi.github.io/)
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🔧 Skilled in **robotics design, embedded programming, and automation systems**  
-- 💡 Always exploring how engineering and AI can solve real-world problems  
-- 🌍 Aspiring to contribute to **advanced robotics for industry and society**
+## About Me
+
+I am a **CSWP-certified Mechatronics Engineer** focused on robotics, autonomous systems, and electromechanical product development.
+
+My work sits at the intersection of the **physical machine** and the **intelligence that controls it**. I enjoy taking an idea from requirements and CAD into prototyping, system integration, debugging, and real-world testing.
+
+My strongest areas are:
+
+- **Mechanical & Product Design** — SolidWorks, FEA, topology optimization, DFM, dimensional tolerancing, fits & clearances, bearing fits, BOM development, manufacturing drawings, and FDM prototyping.
+- **Robotics & Autonomy** — ROS 2, Gazebo, RViz, URDF/Xacro, forward & inverse kinematics, ArduPilot SITL, MAVLink, pymavlink, and autonomous mission logic.
+- **Embedded & System Integration** — ESP32, Raspberry Pi 5, Arduino, Cube Orange, UART, PWM, MQTT, stepper/servo/BLDC motors, sensors, and subsystem integration.
+- **Programming & Computer Vision** — Python, C++, OpenCV, and Linux.
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://x.com/Eng_Kambe" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://www.linkedin.com/in/abdulrahmanalsaadi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## Selected Engineering Work
+
+### 3-DOF SCARA Robotic Arm
+**CAD → analysis → manufacturing → embedded control → physical validation**
+
+Designed, manufactured, assembled, and tested a custom SCARA robotic arm with GT2 belt transmissions, lead-screw Z motion, bearing-fit design, topology-optimized components, ESP32 control, homing, forward/inverse kinematics, browser control, and MQTT-based automation.
+
+**Repository:** [scara-robot-arm](https://github.com/ABDULRAHMAN-ALSAADI/scara-robot-arm)
 
 ---
 
-## 🛠️ Skills & Tools
+### WD Drone — Autonomous Mission System
+**Autonomy → simulation → flight-controller integration → computer vision → flight testing**
 
-### ⚙️ Engineering & Robotics
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E52E27?style=for-the-badge&logo=solidworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-0077CC?style=for-the-badge&logo=microchip&logoColor=white)
+Developed and integrated an autonomous UAV mission workflow using **Raspberry Pi 5, Cube Orange, ArduPilot, MAVLink, Gazebo/SITL, and OpenCV**. The system was developed through simulation, subsystem bench testing, avionics integration, and staged real-flight validation.
 
-### 💻 Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🎨 Others
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) <a href="#" target="_blank"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AI%20Tools-4A9A8B?style=for-the-badge&logo=artstation&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Robotics%20Engineering-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/></a>
-</p>
-  
----
-
-## 📊 GitHub Insights
-![](https://github-readme-streak-stats.herokuapp.com/?user=ABDULRAHMAN-ALSAADI&theme=dark&hide_border=true) ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULRAHMAN-ALSAADI&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+**Repository:** [wd-drone-autonomous-mission](https://github.com/ABDULRAHMAN-ALSAADI/wd-drone-autonomous-mission)
 
 ---
 
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=ABDULRAHMAN-ALSAADI&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+### 6-DOF Cycloidal Robot Arm
+**Mechanical design project · 27:1 cycloidal reducers**
+
+Designed a 6-DOF robotic arm around custom cycloidal reducers, including joint architecture, torque/inertia calculations, actuator sizing, bearing and shaft selection, fits/tolerances, DFMA, BOM development, manufacturing drawings, and gripper design.
+
+**Current stage:** Mechanical design complete; prototyping and ROS 2 / URDF integration are the next phase.
+
 ---
 
-## 💡 Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Engineering Toolkit
+
+| Mechanical Design | Robotics & Autonomy | Embedded & Integration | Software & Vision |
+|---|---|---|---|
+| SolidWorks | ROS 2 Humble | ESP32 | Python |
+| SolidWorks Simulation | Gazebo | Raspberry Pi 5 | C++ |
+| FEA & Topology Optimization | RViz | Cube Orange | OpenCV |
+| DFM & Tolerancing | URDF / Xacro | Arduino | Linux |
+| Fits & Bearing Fits | ArduPilot SITL | UART / PWM / MQTT | pymavlink |
+| BOM & Manufacturing Drawings | Forward / Inverse Kinematics | Stepper / Servo / BLDC | MAVLink |
 
 ---
+
+## What I Value in Engineering
+
+- Designing with **manufacturing and assembly** in mind, not only CAD appearance.
+- Validating calculations and simulations against **physical hardware** whenever possible.
+- Building systems that are **modular, testable, and understandable** across mechanical, electrical, and software boundaries.
+- Documenting the engineering process so another engineer can understand **what was built, why it was designed that way, and how it was tested**.
+
+---
+
+<div align="center">
+
+### Building something that moves, thinks, or both?
+
+Explore my full project case studies, engineering documentation, test evidence, and CVs:
+
+### [abdulrahman-alsaadi.github.io](https://abdulrahman-alsaadi.github.io/)
+
+</div>
