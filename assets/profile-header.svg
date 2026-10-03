@@ -1,0 +1,97 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07110E"/>
+      <stop offset="0.52" stop-color="#0A1712"/>
+      <stop offset="1" stop-color="#07100E"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#10B981" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#34D399" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#163128" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; }
+      @keyframes dash { to { stroke-dashoffset: -120; } }
+      @keyframes pulse { 0%,100% { opacity:.35 } 50% { opacity:1 } }
+      @keyframes float { 0%,100% { transform:translateY(0px) } 50% { transform:translateY(-5px) } }
+      @keyframes blink { 0%,44%,100% { opacity:1 } 45%,70% { opacity:.22 } }
+      .trace { stroke-dasharray: 8 9; animation: dash 5s linear infinite; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      .float { animation: float 6s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+      .blink { animation: blink 1.7s steps(1,end) infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="30" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="29" stroke="#1E3A31" stroke-width="2"/>
+  <rect x="24" y="24" width="1152" height="382" rx="22" fill="url(#grid)" opacity="0.65"/>
+
+  <g opacity="0.22">
+    <path d="M75 87H1125" stroke="#2F5C4B"/>
+    <path d="M75 344H1125" stroke="#2F5C4B"/>
+    <path d="M372 58V373" stroke="#24473B"/>
+    <path d="M823 58V373" stroke="#24473B"/>
+  </g>
+
+  <text x="78" y="66" class="mono" fill="#6EE7B7" font-size="14" letter-spacing="3">SYSTEM // MECHATRONICS</text>
+  <circle cx="1092" cy="61" r="6" fill="#34D399" filter="url(#glow)" class="blink"/>
+  <text x="1110" y="66" class="mono" fill="#75A895" font-size="12" letter-spacing="2">ONLINE</text>
+
+  <!-- Abstract robot arm -->
+  <g class="float" opacity="0.95">
+    <circle cx="151" cy="279" r="34" fill="#0B1E18" stroke="#2D6B56" stroke-width="2"/>
+    <circle cx="151" cy="279" r="11" fill="#34D399" opacity="0.9"/>
+    <path d="M151 279 L212 224 L287 245 L333 177" stroke="#A7F3D0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M151 279 L212 224 L287 245 L333 177" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="trace"/>
+    <circle cx="212" cy="224" r="16" fill="#0A1712" stroke="#6EE7B7" stroke-width="3"/>
+    <circle cx="287" cy="245" r="16" fill="#0A1712" stroke="#6EE7B7" stroke-width="3"/>
+    <circle cx="333" cy="177" r="13" fill="#34D399" filter="url(#glow)"/>
+    <path d="M333 177 L350 160 M333 177 L353 184" stroke="#A7F3D0" stroke-width="4" stroke-linecap="round"/>
+    <path d="M114 316H189" stroke="#365E4F" stroke-width="3"/>
+    <path d="M126 323H177" stroke="#365E4F" stroke-width="3"/>
+  </g>
+
+  <!-- Name block -->
+  <text x="402" y="165" class="sans" fill="#F0FDF4" font-size="54" font-weight="800" letter-spacing="-1">ABDULRAHMAN</text>
+  <text x="402" y="222" class="sans" fill="#F0FDF4" font-size="54" font-weight="800" letter-spacing="-1">ALSAADI</text>
+  <text x="405" y="263" class="mono" fill="#34D399" font-size="19" letter-spacing="5">MECHATRONICS ENGINEER</text>
+  <text x="405" y="302" class="mono" fill="#86A99C" font-size="15" letter-spacing="2">MECHANICS  ↔  CONTROL  ↔  AUTONOMY</text>
+
+  <!-- Abstract quad / system node -->
+  <g transform="translate(940 215)" class="float">
+    <circle r="62" stroke="#204D3E" stroke-width="2" stroke-dasharray="5 8" class="trace"/>
+    <circle r="25" fill="#0B1E18" stroke="#34D399" stroke-width="2"/>
+    <path d="M-42 -42L42 42M42 -42L-42 42" stroke="#91E7C4" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="-49" cy="-49" r="15" fill="#0A1712" stroke="#5EEAB6" stroke-width="3"/>
+    <circle cx="49" cy="-49" r="15" fill="#0A1712" stroke="#5EEAB6" stroke-width="3"/>
+    <circle cx="-49" cy="49" r="15" fill="#0A1712" stroke="#5EEAB6" stroke-width="3"/>
+    <circle cx="49" cy="49" r="15" fill="#0A1712" stroke="#5EEAB6" stroke-width="3"/>
+    <circle r="6" fill="#34D399" filter="url(#glow)" class="pulse"/>
+  </g>
+
+  <!-- telemetry -->
+  <g class="mono" font-size="12">
+    <rect x="78" y="360" width="124" height="28" rx="14" fill="#0B211A" stroke="#214C3D"/>
+    <text x="101" y="379" fill="#9BD7C1" letter-spacing="1.5">CAD // 01</text>
+    <rect x="216" y="360" width="151" height="28" rx="14" fill="#0B211A" stroke="#214C3D"/>
+    <text x="237" y="379" fill="#9BD7C1" letter-spacing="1.5">EMBEDDED // 02</text>
+    <rect x="381" y="360" width="164" height="28" rx="14" fill="#0B211A" stroke="#214C3D"/>
+    <text x="402" y="379" fill="#9BD7C1" letter-spacing="1.5">AUTONOMY // 03</text>
+    <rect x="559" y="360" width="150" height="28" rx="14" fill="#0B211A" stroke="#214C3D"/>
+    <text x="581" y="379" fill="#9BD7C1" letter-spacing="1.5">TESTING // 04</text>
+  </g>
+
+  <!-- scan beam -->
+  <rect y="24" width="160" height="382" fill="url(#beam)" opacity="0.08">
+    <animate attributeName="x" values="-180;1220" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
