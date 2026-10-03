@@ -1,90 +1,94 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Abdulrahman Alsaadi — Mechatronics Engineer"/>
+</p>
 
-# Abdulrahman Alsaadi
+<p align="center">
+  <a href="https://abdulrahman-alsaadi.github.io/">
+    <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-### Mechatronics Engineer  
-**Robotics & Autonomous Systems · Mechanical & Product Design · R&D**
+<br>
 
-I build electromechanical and robotic systems from **mechanical design and engineering analysis** through **embedded control, autonomy, simulation, integration, and physical validation**.
+<table>
+<tr>
+<td width="58%">
 
-[![Portfolio](https://img.shields.io/badge/VIEW%20PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulrahman-alsaadi.github.io/)
+### `00 / SIGNAL`
 
-</div>
+```text
+MECHANICAL SYSTEMS  ←→  EMBEDDED CONTROL
+          ↑                    ↓
+      REAL HARDWARE  ←→  AUTONOMY
+```
+
+I like engineering where the **CAD leaves the screen**,  
+the **software touches hardware**,  
+and the final answer is something you can actually test.
+
+</td>
+<td width="42%">
+
+### `01 / CURRENT VECTOR`
+
+```yaml
+focus:
+  - robotics
+  - autonomous systems
+  - mechanical design
+
+mode: build → integrate → validate
+status: always iterating
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="./assets/engineering-loop.svg" width="100%" alt="Design, build, integrate, validate engineering loop"/>
+</p>
+
+<br>
+
+### `02 / FROM THE LAB`
+
+> Not a list of everything I know — just a few systems that made it off the whiteboard.
+
+| System | Signal |
+|:--|:--|
+| **[SCARA Robot Arm](https://github.com/ABDULRAHMAN-ALSAADI/scara-robot-arm)** | CAD → manufacturing → kinematics → embedded control → physical validation |
+| **[WD Drone Autonomous Mission](https://github.com/ABDULRAHMAN-ALSAADI/wd-drone-autonomous-mission)** | simulation → vision → MAVLink → companion computer → flight testing |
+| **6-DOF Cycloidal Arm** | reducer architecture → torque sizing → tolerance design → prototype next |
+
+<br>
+
+### `03 / ENGINEERING DNA`
+
+<p align="center">
+  <code>DESIGN FOR REALITY</code>
+  &nbsp;·&nbsp;
+  <code>TEST BEFORE CLAIM</code>
+  &nbsp;·&nbsp;
+  <code>DOCUMENT THE WHY</code>
+  &nbsp;·&nbsp;
+  <code>ITERATE</code>
+</p>
+
+<br>
 
 ---
 
-## About Me
+<p align="center">
+  <sub>There is more behind every project than fits on a GitHub profile.</sub>
+</p>
 
-I am a **CSWP-certified Mechatronics Engineer** focused on robotics, autonomous systems, and electromechanical product development.
+<h3 align="center">
+  <a href="https://abdulrahman-alsaadi.github.io/">→ OPEN THE FULL ENGINEERING PORTFOLIO ←</a>
+</h3>
 
-My work sits at the intersection of the **physical machine** and the **intelligence that controls it**. I enjoy taking an idea from requirements and CAD into prototyping, system integration, debugging, and real-world testing.
-
-My strongest areas are:
-
-- **Mechanical & Product Design** — SolidWorks, FEA, topology optimization, DFM, dimensional tolerancing, fits & clearances, bearing fits, BOM development, manufacturing drawings, and FDM prototyping.
-- **Robotics & Autonomy** — ROS 2, Gazebo, RViz, URDF/Xacro, forward & inverse kinematics, ArduPilot SITL, MAVLink, pymavlink, and autonomous mission logic.
-- **Embedded & System Integration** — ESP32, Raspberry Pi 5, Arduino, Cube Orange, UART, PWM, MQTT, stepper/servo/BLDC motors, sensors, and subsystem integration.
-- **Programming & Computer Vision** — Python, C++, OpenCV, and Linux.
-
----
-
-## Selected Engineering Work
-
-### 3-DOF SCARA Robotic Arm
-**CAD → analysis → manufacturing → embedded control → physical validation**
-
-Designed, manufactured, assembled, and tested a custom SCARA robotic arm with GT2 belt transmissions, lead-screw Z motion, bearing-fit design, topology-optimized components, ESP32 control, homing, forward/inverse kinematics, browser control, and MQTT-based automation.
-
-**Repository:** [scara-robot-arm](https://github.com/ABDULRAHMAN-ALSAADI/scara-robot-arm)
-
----
-
-### WD Drone — Autonomous Mission System
-**Autonomy → simulation → flight-controller integration → computer vision → flight testing**
-
-Developed and integrated an autonomous UAV mission workflow using **Raspberry Pi 5, Cube Orange, ArduPilot, MAVLink, Gazebo/SITL, and OpenCV**. The system was developed through simulation, subsystem bench testing, avionics integration, and staged real-flight validation.
-
-**Repository:** [wd-drone-autonomous-mission](https://github.com/ABDULRAHMAN-ALSAADI/wd-drone-autonomous-mission)
-
----
-
-### 6-DOF Cycloidal Robot Arm
-**Mechanical design project · 27:1 cycloidal reducers**
-
-Designed a 6-DOF robotic arm around custom cycloidal reducers, including joint architecture, torque/inertia calculations, actuator sizing, bearing and shaft selection, fits/tolerances, DFMA, BOM development, manufacturing drawings, and gripper design.
-
-**Current stage:** Mechanical design complete; prototyping and ROS 2 / URDF integration are the next phase.
-
----
-
-## Engineering Toolkit
-
-| Mechanical Design | Robotics & Autonomy | Embedded & Integration | Software & Vision |
-|---|---|---|---|
-| SolidWorks | ROS 2 Humble | ESP32 | Python |
-| SolidWorks Simulation | Gazebo | Raspberry Pi 5 | C++ |
-| FEA & Topology Optimization | RViz | Cube Orange | OpenCV |
-| DFM & Tolerancing | URDF / Xacro | Arduino | Linux |
-| Fits & Bearing Fits | ArduPilot SITL | UART / PWM / MQTT | pymavlink |
-| BOM & Manufacturing Drawings | Forward / Inverse Kinematics | Stepper / Servo / BLDC | MAVLink |
-
----
-
-## What I Value in Engineering
-
-- Designing with **manufacturing and assembly** in mind, not only CAD appearance.
-- Validating calculations and simulations against **physical hardware** whenever possible.
-- Building systems that are **modular, testable, and understandable** across mechanical, electrical, and software boundaries.
-- Documenting the engineering process so another engineer can understand **what was built, why it was designed that way, and how it was tested**.
-
----
-
-<div align="center">
-
-### Building something that moves, thinks, or both?
-
-Explore my full project case studies, engineering documentation, test evidence, and CVs:
-
-### [abdulrahman-alsaadi.github.io](https://abdulrahman-alsaadi.github.io/)
-
-</div>
+<p align="center">
+  <sub>Building something that moves, thinks, or both?</sub>
+</p>
